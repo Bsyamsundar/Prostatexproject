@@ -16,3 +16,6 @@ T2-weighted (used in the project),
 DWI (Diffusion-Weighted Imaging),
 Ktrans (Kinetics),
 ADC (Apparent Diffusion Coefficient).
+
+Convolutional Neural Network model used and got an accuracy of 89.4%, precision of 82.2% and a recall of 86% on the training data and a validation accuracy of 82.7%, validation precision of 66.1% and validation recall of 95.8%
+
